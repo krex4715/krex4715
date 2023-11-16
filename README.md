@@ -12,6 +12,3 @@
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpigeon&theme=buefy&show_icons=true)
