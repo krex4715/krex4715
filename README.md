@@ -3,7 +3,7 @@
 
 
 
-- **[What Project I Worked](https://krex4715.github.io/)**
+- **[Homepage](https://krex4715.github.io/)**
 - **[Harco Lab](https://harco.hanyang.ac.kr/) Website Operator**
 
 ### Skills
