@@ -4,7 +4,6 @@
 
 
 - **[Homepage](https://krex4715.github.io/)**
-- **[Harco Lab](https://harco.hanyang.ac.kr/) Website Operator**
 
 
 <!--
