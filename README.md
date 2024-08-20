@@ -6,7 +6,7 @@
 - **[Homepage](https://krex4715.github.io/)**
 
 
-<!--
+
 ### Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,4 +16,4 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krex4715&theme=buefy&show_icons=true)
---!>
+
